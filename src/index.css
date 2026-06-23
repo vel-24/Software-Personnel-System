@@ -1,0 +1,6 @@
+/* Import all style files */
+@import './styles/index.css';
+@import './styles/components.css';
+@import './styles/dashboard.css';
+@import './styles/chatbot.css';
+@import './styles/responsive.css';
